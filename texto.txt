@@ -6,3 +6,4 @@ git status
 git add .
 git commit -m "Añadido archivo de ejemplo"
 git log
+git push
