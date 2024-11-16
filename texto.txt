@@ -1,2 +1,8 @@
 Hola mundo! :3
 Bienvenido a mi primer repositorio con Git!
+
+Pasos para crear un repositorio
+git status
+git add .
+git commit -m "Añadido archivo de ejemplo"
+git log
